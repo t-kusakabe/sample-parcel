@@ -1,0 +1,13 @@
+{
+  "name": "sample-parcel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "t-kusakabe <ttmac0704@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "1.10.3"
+  },
+  "dependencies": {
+    "about": "1.0.0"
+  }
+}
